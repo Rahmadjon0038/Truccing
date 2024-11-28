@@ -398,6 +398,19 @@ h6 {
     background-color: color-mix(in srgb, var(--accent-color), white 90%);
   }
 
+
+
+
+
+
+
+
+
+
+
+
+
+  
   .navmenu a i:hover,
   .navmenu a:focus i:hover {
     background-color: color-mix(in srgb, var(--accent-color), white 90%);
@@ -406,7 +419,7 @@ h6 {
   .navmenu a:hover,
   .navmenu .active,
   .navmenu .active:focus {
-    background-color: var(--nav-dropdown-hover-color);
+    background-color: var(--accent-color);
   }
 
   .navmenu .active i,
