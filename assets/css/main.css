@@ -192,7 +192,7 @@ h6 {
 
 .header .btn-getstarted:hover,
 .header .btn-getstarted:focus:hover {
-  color: var(--default-color);
+  color: white;
   background: var(--accent-color);
 }
 
