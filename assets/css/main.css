@@ -50,8 +50,17 @@
   --heading-color: #ffffff;
   --surface-color: #252525;
   --contrast-color: #2a2727;
+  animation: animatebg 1s linear 1 ;
 }
 
+/* @keyframes animatebg{
+  from{
+    --background-color: #3b3a3a83;
+  }
+  to{
+    --background-color: #212020;
+  }
+} */
 /* Smooth scroll */
 :root {
   scroll-behavior: smooth;
